@@ -3,9 +3,6 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-rs&size_weight=0.5&count_weight=0.5)
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Yas-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C++/javascript-plain.svg">
-  <img align="center" alt="Yas-NXC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/NXC/javascript-plain.svg">
-  <img align="center" alt="Yas-Rt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Rstudio/react-original.svg">
   <img align="center" alt="Yas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

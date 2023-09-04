@@ -1,7 +1,7 @@
 ### Hi there 👋
   ![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmin-rs&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-rs&size_weight=0.5&count_weight=0.5)
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-rs&layout=pie)](https://github.com/yasmin-rs/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Yas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

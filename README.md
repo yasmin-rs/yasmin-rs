@@ -1,5 +1,5 @@
 ### Hi there 👋
-  ![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmin-rs&show_icons=true&theme=transparente)
+  ![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmin-rs&show_icons=true&theme=transparent)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-rs&size_weight=0.5&count_weight=0.5)
   
 <div style="display: inline_block"><br>
